@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-gallery", "azure-gallery.csproj", "{52B49F57-0353-4FAA-A4E7-F01E1E11779E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B49F57-0353-4FAA-A4E7-F01E1E11779E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B49F57-0353-4FAA-A4E7-F01E1E11779E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B49F57-0353-4FAA-A4E7-F01E1E11779E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B49F57-0353-4FAA-A4E7-F01E1E11779E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E59C1AEA-EA38-4588-85EF-0C7F3A4EFA06}
+	EndGlobalSection
+EndGlobal
